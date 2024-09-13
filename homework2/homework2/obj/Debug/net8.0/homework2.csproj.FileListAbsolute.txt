@@ -1,0 +1,14 @@
+D:\visual studi\homework2\homework2\bin\Debug\net8.0\homework2.exe
+D:\visual studi\homework2\homework2\bin\Debug\net8.0\homework2.deps.json
+D:\visual studi\homework2\homework2\bin\Debug\net8.0\homework2.runtimeconfig.json
+D:\visual studi\homework2\homework2\bin\Debug\net8.0\homework2.dll
+D:\visual studi\homework2\homework2\bin\Debug\net8.0\homework2.pdb
+D:\visual studi\homework2\homework2\obj\Debug\net8.0\homework2.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studi\homework2\homework2\obj\Debug\net8.0\homework2.AssemblyInfoInputs.cache
+D:\visual studi\homework2\homework2\obj\Debug\net8.0\homework2.AssemblyInfo.cs
+D:\visual studi\homework2\homework2\obj\Debug\net8.0\homework2.csproj.CoreCompileInputs.cache
+D:\visual studi\homework2\homework2\obj\Debug\net8.0\homework2.dll
+D:\visual studi\homework2\homework2\obj\Debug\net8.0\refint\homework2.dll
+D:\visual studi\homework2\homework2\obj\Debug\net8.0\homework2.pdb
+D:\visual studi\homework2\homework2\obj\Debug\net8.0\homework2.genruntimeconfig.cache
+D:\visual studi\homework2\homework2\obj\Debug\net8.0\ref\homework2.dll
