@@ -1,0 +1,14 @@
+D:\visual studi\homework4(B)\homework4(B)\bin\Debug\net8.0\homework4(B).exe
+D:\visual studi\homework4(B)\homework4(B)\bin\Debug\net8.0\homework4(B).deps.json
+D:\visual studi\homework4(B)\homework4(B)\bin\Debug\net8.0\homework4(B).runtimeconfig.json
+D:\visual studi\homework4(B)\homework4(B)\bin\Debug\net8.0\homework4(B).dll
+D:\visual studi\homework4(B)\homework4(B)\bin\Debug\net8.0\homework4(B).pdb
+D:\visual studi\homework4(B)\homework4(B)\obj\Debug\net8.0\homework4(B).GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studi\homework4(B)\homework4(B)\obj\Debug\net8.0\homework4(B).AssemblyInfoInputs.cache
+D:\visual studi\homework4(B)\homework4(B)\obj\Debug\net8.0\homework4(B).AssemblyInfo.cs
+D:\visual studi\homework4(B)\homework4(B)\obj\Debug\net8.0\homework4(B).csproj.CoreCompileInputs.cache
+D:\visual studi\homework4(B)\homework4(B)\obj\Debug\net8.0\homework4(B).dll
+D:\visual studi\homework4(B)\homework4(B)\obj\Debug\net8.0\refint\homework4(B).dll
+D:\visual studi\homework4(B)\homework4(B)\obj\Debug\net8.0\homework4(B).pdb
+D:\visual studi\homework4(B)\homework4(B)\obj\Debug\net8.0\homework4(B).genruntimeconfig.cache
+D:\visual studi\homework4(B)\homework4(B)\obj\Debug\net8.0\ref\homework4(B).dll
