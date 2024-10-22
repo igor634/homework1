@@ -1,0 +1,14 @@
+D:\visual studi\Homework9(A)\Homework9(A)\bin\Debug\net8.0\Homework9(A).exe
+D:\visual studi\Homework9(A)\Homework9(A)\bin\Debug\net8.0\Homework9(A).deps.json
+D:\visual studi\Homework9(A)\Homework9(A)\bin\Debug\net8.0\Homework9(A).runtimeconfig.json
+D:\visual studi\Homework9(A)\Homework9(A)\bin\Debug\net8.0\Homework9(A).dll
+D:\visual studi\Homework9(A)\Homework9(A)\bin\Debug\net8.0\Homework9(A).pdb
+D:\visual studi\Homework9(A)\Homework9(A)\obj\Debug\net8.0\Homework9(A).GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studi\Homework9(A)\Homework9(A)\obj\Debug\net8.0\Homework9(A).AssemblyInfoInputs.cache
+D:\visual studi\Homework9(A)\Homework9(A)\obj\Debug\net8.0\Homework9(A).AssemblyInfo.cs
+D:\visual studi\Homework9(A)\Homework9(A)\obj\Debug\net8.0\Homework9(A).csproj.CoreCompileInputs.cache
+D:\visual studi\Homework9(A)\Homework9(A)\obj\Debug\net8.0\Homework9(A).dll
+D:\visual studi\Homework9(A)\Homework9(A)\obj\Debug\net8.0\refint\Homework9(A).dll
+D:\visual studi\Homework9(A)\Homework9(A)\obj\Debug\net8.0\Homework9(A).pdb
+D:\visual studi\Homework9(A)\Homework9(A)\obj\Debug\net8.0\Homework9(A).genruntimeconfig.cache
+D:\visual studi\Homework9(A)\Homework9(A)\obj\Debug\net8.0\ref\Homework9(A).dll
