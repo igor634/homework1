@@ -1,0 +1,16 @@
+D:\visual studi\homeworkwindowsForms\homeworkwindowsForms\bin\Debug\net8.0-windows\homeworkwindowsForms.exe
+D:\visual studi\homeworkwindowsForms\homeworkwindowsForms\bin\Debug\net8.0-windows\homeworkwindowsForms.deps.json
+D:\visual studi\homeworkwindowsForms\homeworkwindowsForms\bin\Debug\net8.0-windows\homeworkwindowsForms.runtimeconfig.json
+D:\visual studi\homeworkwindowsForms\homeworkwindowsForms\bin\Debug\net8.0-windows\homeworkwindowsForms.dll
+D:\visual studi\homeworkwindowsForms\homeworkwindowsForms\bin\Debug\net8.0-windows\homeworkwindowsForms.pdb
+D:\visual studi\homeworkwindowsForms\homeworkwindowsForms\obj\Debug\net8.0-windows\homeworkwindowsForms.Form1.resources
+D:\visual studi\homeworkwindowsForms\homeworkwindowsForms\obj\Debug\net8.0-windows\homeworkwindowsForms.csproj.GenerateResource.cache
+D:\visual studi\homeworkwindowsForms\homeworkwindowsForms\obj\Debug\net8.0-windows\homeworkwindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studi\homeworkwindowsForms\homeworkwindowsForms\obj\Debug\net8.0-windows\homeworkwindowsForms.AssemblyInfoInputs.cache
+D:\visual studi\homeworkwindowsForms\homeworkwindowsForms\obj\Debug\net8.0-windows\homeworkwindowsForms.AssemblyInfo.cs
+D:\visual studi\homeworkwindowsForms\homeworkwindowsForms\obj\Debug\net8.0-windows\homeworkwindowsForms.csproj.CoreCompileInputs.cache
+D:\visual studi\homeworkwindowsForms\homeworkwindowsForms\obj\Debug\net8.0-windows\homeworkwindowsForms.dll
+D:\visual studi\homeworkwindowsForms\homeworkwindowsForms\obj\Debug\net8.0-windows\refint\homeworkwindowsForms.dll
+D:\visual studi\homeworkwindowsForms\homeworkwindowsForms\obj\Debug\net8.0-windows\homeworkwindowsForms.pdb
+D:\visual studi\homeworkwindowsForms\homeworkwindowsForms\obj\Debug\net8.0-windows\homeworkwindowsForms.genruntimeconfig.cache
+D:\visual studi\homeworkwindowsForms\homeworkwindowsForms\obj\Debug\net8.0-windows\ref\homeworkwindowsForms.dll
